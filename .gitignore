@@ -1,0 +1,15 @@
+##############################
+## Folders                  ##
+##############################
+Library
+Assets
+
+##############################
+## files	 	            ##
+##############################
+qianyiUnity5.Plugins.csproj
+qianyiUnity5.csproj
+qianyiUnity5.Editor.Plugins.csproj
+qianyiUnity5.Editor.csproj
+qianyiUnity5.sln
+qianyiUnity5.userprefs
